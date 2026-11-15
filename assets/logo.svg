@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><!-- Atlantic Agentic Labs mark. © 2026 Atlantic Agentic Labs. -->
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#18395b"/><stop offset="1" stop-color="#0d1c2e"/></linearGradient><linearGradient id="crest" gradientUnits="userSpaceOnUse" x1="6" y1="44" x2="58" y2="14"><stop offset="0" stop-color="#4f93cf"/><stop offset="1" stop-color="#7fded1"/></linearGradient></defs>
+  <g><rect width="64" height="64" rx="14" fill="url(#bg)"/>
+    <g transform="translate(5.1 6.4) scale(.84)"><path d="M8 42 C4 42 3 36 8 35 C13 34 17 38 19 41 C21 37 18 33 17 29 C15 17 23 11 32 11 C41 11 49 17 47 29 C46 33 43 37 45 41 C47 38 51 34 56 35 C61 36 60 42 56 42" fill="none" stroke="url(#crest)" stroke-width="6.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M27 31 C27 38 25 44 21 47 C19 48.5 18 46 20 45" fill="none" stroke="url(#crest)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M37 31 C37 38 39 44 43 47 C45 48.5 46 46 44 45" fill="none" stroke="url(#crest)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+</svg>

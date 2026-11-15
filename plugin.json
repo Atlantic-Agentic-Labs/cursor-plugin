@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "atlantic-agentic-labs",
+  "displayName": "Atlantic Agentic Labs",
+  "version": "1.0.0",
+  "description": "Search and read the public LightHouse™ documentation and Atlantic's published items.",
+  "author": {
+    "name": "Atlantic Agentic Labs",
+    "email": "solutions@atlanticagenticlabs.com"
+  },
+  "homepage": "https://atlanticagenticlabs.com",
+  "license": "Apache-2.0",
+  "keywords": ["mcp", "documentation", "search", "lighthouse"],
+  "logo": "assets/logo.svg"
+}
